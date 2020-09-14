@@ -1,7 +1,7 @@
 ### docker-images
 
 based on **[frolvlad/alpine-miniconda3](https://hub.docker.com/r/frolvlad/alpine-miniconda3)**\
-and very thanks to **[this site](https://jcristharif.com/conda-docker-tips.html)**
+and big thanks to **[this site](https://jcristharif.com/conda-docker-tips.html)**
 
 **pip** and **conda** commands are available
 
