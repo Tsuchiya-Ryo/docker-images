@@ -9,6 +9,7 @@ followings are installed: (nomkl)\
 flask\
 flask-sqlalchemy\
 psycopg2\
+~~gunicorn~~\
 numpy\
 pandas\
 matplotlib-base\
